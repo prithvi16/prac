@@ -6,3 +6,4 @@ _Writing in Markdown is not that hard!_
 **KEYUR PARALKAR**
 **EMAIL ID: keur.plkar@gmail.com**
 
+#Markdown is atleat better than HTML
